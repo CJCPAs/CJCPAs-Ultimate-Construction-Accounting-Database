@@ -69,9 +69,31 @@ This database is regularly updated to reflect:
 - Industry best practices
 - Regulatory changes
 
-## 📄 License
+## ⚠️ Important Disclaimer
+THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
-This documentation is provided for educational and professional use.
+The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
+
+Please Note:
+Not Professional Advice: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
+
+No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
+
+Verify with Professionals: Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+
+Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
+
+Software Changes: QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
+
+State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
+
+Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+
+Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+
+BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
+
+If you need professional assistance with your construction accounting, please consult with a licensed CPA or accounting professional in your area.
 
 ---
 
