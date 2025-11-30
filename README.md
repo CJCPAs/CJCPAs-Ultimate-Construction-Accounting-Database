@@ -46,6 +46,29 @@ The most comprehensive construction accounting reference for CPAs and auditors. 
 - [03-Related-Party-Transactions](docs/06-common-issues/03-related-party-transactions.md) - Common related party issues
 - [04-Estimate-Manipulation](docs/06-common-issues/04-estimate-manipulation.md) - Detecting estimate manipulation
 
+### Financial Statement Footnote Disclosures
+The ultimate library of disclosure templates for construction company financial statements:
+- [01-Disclosure-Overview](docs/07-financial-statement-footnotes/01-Disclosure-Overview.md) - Framework and guidance
+- [02-Significant-Accounting-Policies](docs/07-financial-statement-footnotes/02-Significant-Accounting-Policies.md) - Policy disclosures
+- [03-Revenue-Recognition-Disclosures](docs/07-financial-statement-footnotes/03-Revenue-Recognition-Disclosures.md) - ASC 606 disclosures
+- [04-Contract-Balances](docs/07-financial-statement-footnotes/04-Contract-Balances.md) - Contract assets/liabilities
+- [05-Property-Plant-Equipment](docs/07-financial-statement-footnotes/05-Property-Plant-Equipment.md) - PP&E disclosures
+- [06-Leases](docs/07-financial-statement-footnotes/06-Leases.md) - ASC 842 lease disclosures
+- [07-Debt-Borrowings](docs/07-financial-statement-footnotes/07-Debt-Borrowings.md) - Debt disclosures
+- [08-Equity](docs/07-financial-statement-footnotes/08-Equity.md) - All entity type equity disclosures
+- [09-Related-Party-Transactions](docs/07-financial-statement-footnotes/09-Related-Party-Transactions.md) - Related party disclosures
+- [10-Commitments-Contingencies](docs/07-financial-statement-footnotes/10-Commitments-Contingencies.md) - Commitments and contingencies
+- [11-Subsequent-Events](docs/07-financial-statement-footnotes/11-Subsequent-Events.md) - Post-balance sheet events
+- [12-Concentrations-Risk](docs/07-financial-statement-footnotes/12-Concentrations-Risk.md) - Risk concentration disclosures
+- [13-Fair-Value-Measurements](docs/07-financial-statement-footnotes/13-Fair-Value-Measurements.md) - ASC 820 fair value disclosures
+- [14-Income-Taxes](docs/07-financial-statement-footnotes/14-Income-Taxes.md) - Tax disclosures (all entity types)
+- [15-Employee-Benefits](docs/07-financial-statement-footnotes/15-Employee-Benefits.md) - Pension and benefits disclosures
+- [16-Going-Concern](docs/07-financial-statement-footnotes/16-Going-Concern.md) - Going concern disclosures
+- [17-Segment-Reporting](docs/07-financial-statement-footnotes/17-Segment-Reporting.md) - Segment information
+- [18-Joint-Ventures-Investments](docs/07-financial-statement-footnotes/18-Joint-Ventures-Investments.md) - JV and investment disclosures
+- [19-Insurance-Bonding](docs/07-financial-statement-footnotes/19-Insurance-Bonding.md) - Insurance and surety disclosures
+- [20-Construction-Specific](docs/07-financial-statement-footnotes/20-Construction-Specific.md) - Industry-specific disclosures
+
 ## 🎯 Purpose
 
 This database is designed specifically for:
