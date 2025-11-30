@@ -1,4 +1,4 @@
-# CJCPAs Ultimate Construction Accounting Database
+# CJCPAs Ultimate Construction Accounting & Auditing Database
 
 The most comprehensive construction accounting reference for CPAs and auditors. This database provides detailed guidance on all aspects of construction accounting, from fundamental concepts to advanced assurance procedures.
 
