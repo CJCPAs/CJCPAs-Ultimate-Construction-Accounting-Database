@@ -1,173 +1,100 @@
-# The Ultimate Construction Accounting Database
+# CJCPAs Ultimate Construction Accounting Database
 
-## CJCPAs Comprehensive Guide to Construction Company Accounting & Assurance
+The most comprehensive construction accounting reference for CPAs and auditors. This database provides detailed guidance on all aspects of construction accounting, from fundamental concepts to advanced assurance procedures.
 
----
+## 📋 Table of Contents
 
-**The deepest level of detail possible for ALL THINGS construction GAAP accounting.**
+### Construction Accounting Fundamentals
+- [01-Construction-Accounting-Overview](docs/01-construction-accounting-fundamentals/01-overview.md) - Introduction to construction accounting
+- [02-Revenue-Recognition](docs/01-construction-accounting-fundamentals/02-revenue-recognition.md) - ASC 606 and construction contracts
+- [03-Job-Costing](docs/01-construction-accounting-fundamentals/03-job-costing.md) - Cost accumulation and allocation
+- [04-WIP-Schedules](docs/01-construction-accounting-fundamentals/04-wip-schedules.md) - Work-in-progress analysis
+- [05-Billing-Methods](docs/01-construction-accounting-fundamentals/05-billing-methods.md) - Progress billing and retainage
+- [06-Equipment-Accounting](docs/01-construction-accounting-fundamentals/06-equipment-accounting.md) - Fixed assets in construction
+- [07-Joint-Ventures](docs/01-construction-accounting-fundamentals/07-joint-ventures.md) - Partnership and JV accounting
 
-This database is tailored for CPAs, auditors, and accounting professionals working with private construction companies. It provides exhaustive guidance on every aspect of construction accounting, from basic bookkeeping entries to complex audit procedures.
+### Industry-Specific Topics
+- [01-Bonding-Insurance](docs/02-industry-specific/01-bonding-insurance.md) - Surety bonds and insurance requirements
+- [02-Contract-Types](docs/02-industry-specific/02-contract-types.md) - Fixed-price, cost-plus, and time & materials
+- [03-Change-Orders](docs/02-industry-specific/03-change-orders.md) - Modifications and claims accounting
+- [04-Subcontractor-Accounting](docs/02-industry-specific/04-subcontractor-accounting.md) - Subcontract management
 
----
+### Financial Statement Audits
+- [01-Audit-Planning](docs/03-financial-statement-audits/01-audit-planning.md) - Risk assessment and planning procedures
+- [02-Internal-Controls](docs/03-financial-statement-audits/02-internal-controls.md) - Control testing for construction
+- [03-Substantive-Procedures](docs/03-financial-statement-audits/03-substantive-procedures.md) - Detailed testing procedures
+- [04-Revenue-Testing](docs/03-financial-statement-audits/04-revenue-testing.md) - Testing revenue recognition
+- [05-Cost-Testing](docs/03-financial-statement-audits/05-cost-testing.md) - Testing job costs and estimates
+- [06-WIP-Audit-Procedures](docs/03-financial-statement-audits/06-wip-audit-procedures.md) - WIP schedule verification
+- [07-Management-Representations](docs/03-financial-statement-audits/07-management-representations.md) - Specific construction representations
+- [08-Audit-Report](docs/03-financial-statement-audits/08-audit-report.md) - Reporting considerations
 
-## Table of Contents
+### Financial Statement Reviews
+- [01-Review-Overview](docs/04-financial-statement-reviews/01-review-overview.md) - Review engagement standards
+- [02-Analytical-Procedures](docs/04-financial-statement-reviews/02-analytical-procedures.md) - Construction-specific analytics
+- [03-Inquiries](docs/04-financial-statement-reviews/03-inquiries.md) - Key inquiries for construction
+- [04-Review-Report](docs/04-financial-statement-reviews/04-review-report.md) - Review report considerations
 
-### Part I: Construction Accounting Fundamentals
-| Section | Description |
-|---------|-------------|
-| [01 - Construction GAAP Fundamentals](./01-Construction-GAAP-Fundamentals/) | Revenue recognition, ASC 606, percentage of completion, cost methods |
-| [02 - Balance Sheet Line Items](./02-Balance-Sheet-Line-Items/) | Every line item explained with journal entries |
-| [03 - Income Statement Line Items](./03-Income-Statement-Line-Items/) | Revenue, COGS, operating expenses in detail |
-| [04 - WIP Schedule Deep Dive](./04-WIP-Schedule-Deep-Dive/) | The heart of construction accounting |
+### Financial Statement Compilations
+- [01-Compilation-Overview](docs/05-financial-statement-compilations/01-compilation-overview.md) - Compilation engagement standards
+- [02-Compilation-Procedures](docs/05-financial-statement-compilations/02-compilation-procedures.md) - Procedures for construction compilations
+- [03-Compilation-Report](docs/05-financial-statement-compilations/03-compilation-report.md) - Compilation report requirements
 
-### Part II: Assurance Services
-| Section | Description |
-|---------|-------------|
-| [05 - Assurance Overview](./05-Assurance-Overview/) | Understanding audit, review, compilation differences |
-| [06 - Financial Statement Audits](./06-Financial-Statement-Audits/) | Complete audit procedures for every account |
-| [07 - WIP Audit Comprehensive](./07-WIP-Audit-Comprehensive/) | **THE BIG SECTION** - Everything about auditing WIP |
-| [08 - Financial Statement Reviews](./08-Financial-Statement-Reviews/) | Review engagement procedures |
-| [09 - Financial Statement Compilations](./09-Financial-Statement-Compilations/) | Compilation engagement procedures |
+### Common Issues and Red Flags
+- [01-Fraud-Risk-Factors](docs/06-common-issues/01-fraud-risk-factors.md) - Fraud indicators in construction
+- [02-Going-Concern](docs/06-common-issues/02-going-concern.md) - Financial health assessment
+- [03-Related-Party-Transactions](docs/06-common-issues/03-related-party-transactions.md) - Common related party issues
+- [04-Estimate-Manipulation](docs/06-common-issues/04-estimate-manipulation.md) - Detecting estimate manipulation
 
-### Part III: Resources & Templates
-| Section | Description |
-|---------|-------------|
-| [10 - Templates & Workpapers](./10-Templates-Workpapers/) | Ready-to-use audit workpapers and templates |
-| [11 - Industry Specific Guidance](./11-Industry-Specific-Guidance/) | Specialty contractors, government contracts, etc. |
+## 🎯 Purpose
 
----
+This database is designed specifically for:
+- **CPAs** performing audits, reviews, and compilations of construction companies
+- **Auditors** who need detailed guidance on construction-specific procedures
+- **Accountants** working in or with construction companies
+- **Financial professionals** seeking comprehensive construction accounting knowledge
 
-## Quick Reference: Construction Accounting Equation
+## 📚 How to Use This Database
 
-```
-Contract Revenue Earned = (Costs Incurred to Date / Total Estimated Costs) × Total Contract Price
+1. **New to construction accounting?** Start with [Construction Accounting Overview](docs/01-construction-accounting-fundamentals/01-overview.md)
+2. **Planning an engagement?** Review the relevant assurance section (Audits, Reviews, or Compilations)
+3. **Need specific guidance?** Use the table of contents to navigate to your topic
+4. **Looking for red flags?** Check the [Common Issues](docs/06-common-issues/) section
 
-Gross Profit Earned = Contract Revenue Earned - Costs Incurred to Date
+## 🔄 Updates and Maintenance
 
-Overbilling = Billings to Date > Revenue Earned to Date (LIABILITY)
-Underbilling = Revenue Earned to Date > Billings to Date (ASSET)
-```
+This database is regularly updated to reflect:
+- Changes in accounting standards (ASC, GAAP)
+- Updates to auditing standards (SAS, SSARS)
+- Industry best practices
+- Regulatory changes
 
----
+## ⚠️ Important Disclaimer
+THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
-## Key Construction Accounting Standards
+The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
 
-| Standard | Topic | Applicability |
-|----------|-------|---------------|
-| **ASC 606** | Revenue from Contracts with Customers | All construction contracts |
-| **ASC 340-40** | Contract Costs | Costs to obtain and fulfill contracts |
-| **ASC 450** | Contingencies | Loss contracts, claims, disputes |
-| **ASC 460** | Guarantees | Performance bonds, warranties |
-| **ASC 855** | Subsequent Events | Post-balance sheet contract changes |
+Please Note:
+Not Professional Advice: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
 
----
+No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
 
-## The Five-Step Revenue Recognition Model (ASC 606)
+Verify with Professionals: Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
 
-```
-Step 1: Identify the contract(s) with a customer
-        ↓
-Step 2: Identify the performance obligations
-        ↓
-Step 3: Determine the transaction price
-        ↓
-Step 4: Allocate the transaction price to performance obligations
-        ↓
-Step 5: Recognize revenue when (or as) performance obligations are satisfied
-```
+Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
 
----
+Software Changes: QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
 
-## Construction Company Financial Statement Structure
+State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
 
-### Balance Sheet - Unique Construction Items
-```
-ASSETS                              LIABILITIES
-├── Cash                            ├── Accounts Payable - Trade
-├── Contract Receivables            ├── Accounts Payable - Retention
-├── Retention Receivable            ├── Accrued Expenses
-├── Costs in Excess of Billings*    ├── Billings in Excess of Costs*
-├── Inventory/Materials             ├── Notes Payable - Current
-├── Prepaid Expenses                ├── Current Portion LTD
-├── Property & Equipment            ├── Long-Term Debt
-├── Accumulated Depreciation        └── Deferred Taxes
-└── Other Assets
-                                    EQUITY
-*UNDERBILLINGS (Asset)              ├── Common Stock
-*OVERBILLINGS (Liability)           ├── Retained Earnings
-                                    └── Current Year Net Income
-```
+Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
 
-### Income Statement - Construction Format
-```
-Contract Revenue
-  - Cost of Revenue (Direct Costs)
-    • Labor
-    • Materials
-    • Subcontractors
-    • Equipment
-    • Other Direct Costs
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-= Gross Profit
+Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
 
-  - General & Administrative Expenses
-    • Officer Salaries
-    • Office Salaries
-    • Rent
-    • Utilities
-    • Professional Fees
-    • Insurance
-    • Depreciation
-    • Other G&A
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-= Operating Income
+BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
 
-  +/- Other Income (Expense)
-    • Interest Income
-    • Interest Expense
-    • Gain/Loss on Asset Sales
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-= Net Income Before Taxes
-
-  - Income Tax Expense
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-= Net Income
-```
+If you need professional assistance with your construction accounting, please consult with a licensed CPA or accounting professional in your area.
 
 ---
 
-## Audit Risk Areas - Construction Companies
-
-| Risk Level | Area | Why It's Risky |
-|------------|------|----------------|
-| 🔴 **HIGH** | WIP Schedule / Revenue Recognition | Management estimates, complex calculations |
-| 🔴 **HIGH** | Estimated Costs to Complete | Subjective, affects gross profit |
-| 🔴 **HIGH** | Contract Claims & Change Orders | Uncertain collectibility |
-| 🟡 **MEDIUM** | Retention Receivables | Collectibility, proper cutoff |
-| 🟡 **MEDIUM** | Subcontractor Payables | Completeness, accruals |
-| 🟡 **MEDIUM** | Job Cost Allocation | Proper job costing |
-| 🟢 **LOWER** | Cash | Bank reconciliations |
-| 🟢 **LOWER** | Fixed Assets | Existence, depreciation |
-
----
-
-## How to Use This Database
-
-1. **New to Construction Accounting?** Start with [Section 01](./01-Construction-GAAP-Fundamentals/)
-2. **Need to understand a specific account?** Go to [Section 02](./02-Balance-Sheet-Line-Items/) or [Section 03](./03-Income-Statement-Line-Items/)
-3. **Preparing for an audit?** Review [Section 06](./06-Financial-Statement-Audits/) and especially [Section 07](./07-WIP-Audit-Comprehensive/)
-4. **Performing a review or compilation?** See [Section 08](./08-Financial-Statement-Reviews/) or [Section 09](./09-Financial-Statement-Compilations/)
-5. **Need templates?** Check [Section 10](./10-Templates-Workpapers/)
-
----
-
-## About This Database
-
-Created by **CJCPAs** as a comprehensive resource for construction accounting professionals.
-
-**Version:** 1.0
-**Last Updated:** November 2024
-
----
-
-*"In construction accounting, the WIP schedule is not just a schedule—it's the financial heartbeat of the company."*
+*Built by CPAs, for CPAs. The Ultimate Construction Accounting Database.*
