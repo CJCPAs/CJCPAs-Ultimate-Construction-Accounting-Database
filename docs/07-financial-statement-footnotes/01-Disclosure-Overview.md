@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section provides the **ultimate library of financial statement footnote disclosure templates** specifically tailored for construction companies. These templates are designed to be comprehensive, GAAP-compliant, and ready for customization to fit specific client circumstances.
+This section provides a **comprehensive library of financial statement footnote disclosure templates** tailored for construction companies. These templates are designed as GAAP-compliant starting points that require customization to fit specific client circumstances. Professional judgment is always required when applying these templates.
 
 ## Purpose of Financial Statement Disclosures
 
