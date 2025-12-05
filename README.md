@@ -1,6 +1,20 @@
-# CJCPAs Ultimate Construction Accounting & Auditing Database
+# CJCPAs Construction Accounting Database
 
-The most comprehensive construction accounting reference for CPAs and auditors. This database provides detailed guidance on all aspects of construction accounting, from fundamental concepts to advanced assurance procedures.
+> ⚠️ **IMPORTANT: Please Read Before Using This Resource**
+>
+> This database is for **informational and educational purposes only** and does not constitute professional accounting, auditing, legal, or tax advice. The information may not be complete or current, and accounting standards, auditing standards, and regulations change frequently. **Always consult with qualified CPAs, attorneys, and other professionals** before making decisions about your specific engagement or situation. See the [full disclaimer](#%EF%B8%8F-important-disclaimer) below.
+
+---
+
+## 🌐 Open Source & Community-Driven
+
+**A comprehensive, community-driven resource for construction accounting** — covering GAAP accounting, audit procedures, review and compilation engagements, and financial statement disclosures for the construction industry.
+
+We believe accurate construction accounting information should be accessible to practitioners everywhere. This is an **open source project** and we welcome contributions, corrections, and improvements from the community. If you find an error or have expertise to share, please contribute! Together, we can make this resource better for everyone.
+
+**Found an issue?** [Open an issue](../../issues) or submit a pull request.
+
+---
 
 ## 📋 Table of Contents
 
@@ -47,7 +61,7 @@ The most comprehensive construction accounting reference for CPAs and auditors. 
 - [04-Estimate-Manipulation](docs/06-common-issues/04-estimate-manipulation.md) - Detecting estimate manipulation
 
 ### Financial Statement Footnote Disclosures
-The ultimate library of disclosure templates for construction company financial statements:
+A comprehensive library of disclosure templates for construction company financial statements:
 - [01-Disclosure-Overview](docs/07-financial-statement-footnotes/01-Disclosure-Overview.md) - Framework and guidance
 - [02-Significant-Accounting-Policies](docs/07-financial-statement-footnotes/02-Significant-Accounting-Policies.md) - Policy disclosures
 - [03-Revenue-Recognition-Disclosures](docs/07-financial-statement-footnotes/03-Revenue-Recognition-Disclosures.md) - ASC 606 disclosures
@@ -69,13 +83,17 @@ The ultimate library of disclosure templates for construction company financial 
 - [19-Insurance-Bonding](docs/07-financial-statement-footnotes/19-Insurance-Bonding.md) - Insurance and surety disclosures
 - [20-Construction-Specific](docs/07-financial-statement-footnotes/20-Construction-Specific.md) - Industry-specific disclosures
 
+---
+
 ## 🎯 Purpose
 
-This database is designed specifically for:
+This database is designed as a reference resource for:
 - **CPAs** performing audits, reviews, and compilations of construction companies
-- **Auditors** who need detailed guidance on construction-specific procedures
+- **Auditors** seeking guidance on construction-specific procedures
 - **Accountants** working in or with construction companies
-- **Financial professionals** seeking comprehensive construction accounting knowledge
+- **Financial professionals** seeking construction accounting knowledge
+
+---
 
 ## 📚 How to Use This Database
 
@@ -83,41 +101,117 @@ This database is designed specifically for:
 2. **Planning an engagement?** Review the relevant assurance section (Audits, Reviews, or Compilations)
 3. **Need specific guidance?** Use the table of contents to navigate to your topic
 4. **Looking for red flags?** Check the [Common Issues](docs/06-common-issues/) section
+5. **Drafting disclosures?** See the [Financial Statement Footnote Disclosures](#financial-statement-footnote-disclosures) section
+
+---
+
+## 📖 Regulatory References
+
+This database references guidance from the following authoritative sources:
+
+### Accounting Standards
+- **FASB Accounting Standards Codification (ASC)** - The source of authoritative GAAP
+  - [ASC 606](https://asc.fasb.org/606) - Revenue from Contracts with Customers
+  - [ASC 842](https://asc.fasb.org/842) - Leases
+  - [ASC 820](https://asc.fasb.org/820) - Fair Value Measurement
+  - [ASC 450](https://asc.fasb.org/450) - Contingencies
+  - [ASC 855](https://asc.fasb.org/855) - Subsequent Events
+
+### Auditing Standards
+- **AICPA Statements on Auditing Standards (SAS)** - [aicpa.org](https://www.aicpa.org/research/standards/auditattest/sas.html)
+- **AICPA Statements on Standards for Accounting and Review Services (SSARS)** - [aicpa.org](https://www.aicpa.org/research/standards/auditattest/ssars.html)
+
+### Industry Resources
+- **AICPA Audit and Accounting Guide: Construction Contractors** - Industry-specific guidance
+- **CFMA (Construction Financial Management Association)** - [cfma.org](https://www.cfma.org)
+
+*Note: External links are provided for reference. Always verify you are accessing the most current version of any standard.*
+
+---
 
 ## 🔄 Updates and Maintenance
 
-This database is regularly updated to reflect:
+This database is periodically updated to reflect:
 - Changes in accounting standards (ASC, GAAP)
 - Updates to auditing standards (SAS, SSARS)
 - Industry best practices
-- Regulatory changes
+- Community contributions and corrections
+
+**Last Updated:** December 2024
+
+---
+
+## 🤝 Contributing
+
+This is a **living, open source document** maintained by the community. We welcome contributions from CPAs, auditors, construction industry accountants, and other professionals.
+
+### How to Contribute
+
+- **Found an error?** [Open an issue](../../issues) describing the problem
+- **Have a correction?** Submit a pull request with your fix
+- **Want to add content?** Fork the repo and submit a PR
+- **Have expertise to share?** We'd love your input on complex topics
+
+### Contribution Guidelines
+
+1. **Cite authoritative sources** when possible (ASC references, SAS citations, etc.)
+2. **Be specific** about regulatory and standards references
+3. **Note when rules differ** for different entity types, contract types, or situations
+4. **Avoid overclaiming** — acknowledge limitations and edge cases
+5. **Keep the tone** educational and accessible
+6. **Use templates** as starting points that require professional judgment to customize
+
+**Together, we can make construction accounting knowledge accessible and accurate for everyone.**
+
+---
 
 ## ⚠️ Important Disclaimer
 THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
-The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
-
-Please Note:
-Not Professional Advice: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
-
-No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
-
-Verify with Professionals: Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
-
-Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
-
-Software Changes: QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
-
-State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
-
-Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
-
-Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
-
-BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
-
-If you need professional assistance with your construction accounting, please consult with a licensed CPA or accounting professional in your area.
+This documentation is provided for educational and professional use under the MIT License.
 
 ---
 
-*Built by CPAs, for CPAs. The Ultimate Construction Accounting Database.*
+## ⚠️ Important Disclaimer
+
+**THIS DATABASE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.**
+
+The information contained in this database is designed to provide helpful information on construction accounting topics. This database is provided with the understanding that the authors and contributors are not engaged in rendering professional accounting, auditing, tax, legal, or other professional services through this resource.
+
+### Please Note:
+
+**Not Professional Advice:** This database is not a substitute for professional accounting, auditing, or legal counsel. Every engagement and situation is unique, and the guidance provided here may not apply to your specific circumstances. Professional judgment is always required.
+
+**Verify with Authoritative Sources:** Before relying on any guidance in this database, you should:
+- Consult the relevant authoritative literature (FASB ASC, SAS, SSARS, etc.)
+- Consult with qualified CPAs, attorneys, and other professionals as appropriate
+- Consider the specific facts and circumstances of your engagement
+- Apply professional judgment in all decisions
+
+**Accuracy Not Guaranteed:** While every effort has been made to ensure accuracy, accounting and auditing standards change frequently. The authors and contributors make no guarantees that the information is current, complete, or error-free. Even authoritative sources like the AICPA Audit Guide for Construction Contractors cannot address every situation — neither can this database.
+
+**Jurisdictional Variations:** Accounting and reporting requirements may vary by:
+- Entity type (public vs. private, size thresholds)
+- Jurisdiction (federal, state, local requirements)
+- Contract type (government vs. commercial contracts)
+- Industry sub-sector
+
+**Open Source Disclaimer:** This is a community-driven, open source project. While we welcome contributions and strive for accuracy, content is provided by various contributors and may contain errors or omissions. Always verify critical information with authoritative sources before relying on it for professional engagements.
+
+**Template Customization Required:** The disclosure templates and sample language in this database are starting points only. They require significant customization based on the specific facts and circumstances of each entity and engagement. Do not use templates verbatim without applying professional judgment.
+
+### Limitation of Liability
+
+The authors, contributors, and maintainers of this database shall not be liable for any damages, claims, or losses arising from the use of or reliance on information contained in this database. Users assume all risk associated with the use of this information.
+
+### Professional Assistance
+
+If you need professional assistance with construction accounting, auditing, or financial reporting matters, please consult with:
+- A licensed Certified Public Accountant (CPA)
+- A qualified construction industry accountant
+- Legal counsel for contract and regulatory matters
+- Tax professionals for tax-related matters
+
+---
+
+*A community resource for CPAs and accounting professionals.*
