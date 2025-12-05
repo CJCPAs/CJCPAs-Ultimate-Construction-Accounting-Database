@@ -165,7 +165,8 @@ This is a **living, open source document** maintained by the community. We welco
 
 ---
 
-## 📄 License
+## ⚠️ Important Disclaimer
+THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
 This documentation is provided for educational and professional use under the MIT License.
 
